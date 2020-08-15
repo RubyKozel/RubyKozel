@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RubyKozel&layout=compact)](https://github.com/RubyKozel/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=RubyKozel&repo=github-readme-stats)](https://github.com/RubyKozel/github-readme-stats)
-
 ### Hellow GitHub! 😄
 
 My name is <b>Ruby Kozel</b>, I'm currently 26 years old and live in Israel.
