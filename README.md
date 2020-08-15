@@ -10,7 +10,8 @@ I have a B.Sc at <b>Software Engineering</b> and am working as a <b>Full-Stack C
 As a Full-Stack developer I have the opertunity to write secure cloud applications and programs that reaches thousands of people.  
 My expertise and favorite would be writing <b>Node.js</b> applications and microservices with various frameworks such as <b>Express</b> for JavaScript and <b>NestJS</b> for Typescript.  
 In the front-end side I focuse on professioning <b>React</b> as my main JS framework, but I'm also learning other frameworks such as <b>Svelt</b> and <b>Vue</b>.   
-For databases I mainly use non-relational databases such as MongoDB or Firebase Firestore, but I'm also familiar with PostgreSQL and ORM in JS and TS.  
+For databases I mainly use non-relational databases such as <b>MongoDB</b> or <b>Firebase Firestore</b>, but I'm also familiar with <b>PostgreSQL</b> and ORM in JS and TS.   
+I also have experience in using the object stores of <b>AWS</b> (Amazon), <b>GCP</b> (Google), <b>Azure</b> (Microsoft) and <b>OSS</b> (Alibaba), and <b>Redis</b> database
    
 I'm also familiar with
 * writing native mobile applications using <b>React Native</b> and have developed a native application with is as my final project.
