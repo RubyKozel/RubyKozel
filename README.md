@@ -4,8 +4,8 @@
 
 ### Hellow GitHub! 😄
 
-My name is <b>Ruby Kozel</b>, I'm currently 26 years old and live in Israel.
-I have a B.Sc at <b>Software Engineering</b> and am working as a <b>Full-Stack Cloud Developer @ SAP Cloud Portal Team</b> for the past 2 years.
+My name is <b>Ruby Kozel</b>, I'm currently 28 years old and live in Israel.
+I have a B.Sc at <b>Software Engineering</b> and am working as a <b>Full-Stack Cloud Developer @ SAP Cloud Portal Team</b> for the past 4 years.
 
 As a Full-Stack developer I have the opertunity to write secure cloud applications and programs that reaches thousands of people.  
 My expertise and favorite would be writing <b>Node.js</b> applications and microservices with various frameworks such as <b>Express</b> for JavaScript and <b>NestJS</b> for Typescript.  
